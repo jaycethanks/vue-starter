@@ -1,2 +1,2 @@
 # vue-starter
-手动实现一个vue cli
+try to accomplish a vue-cli 
